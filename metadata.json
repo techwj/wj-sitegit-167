@@ -1,0 +1,59 @@
+{
+  "siteId": "summer-cool-organization",
+  "generatedAt": "2026-06-04T11:35:17.715376",
+  "categories": [
+    "beginner-summer-cool-organization",
+    "advanced-summer-cool-organization",
+    "tips-summer-cool-organization",
+    "history-summer-cool-organization",
+    "trending-summer-cool-organization",
+    "tutorials-summer-cool-organization"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-summer-cool-organization",
+      "category_name": "Beginner Summer Cool Organization"
+    },
+    {
+      "category_slug": "advanced-summer-cool-organization",
+      "category_name": "Advanced Summer Cool Organization"
+    },
+    {
+      "category_slug": "tips-summer-cool-organization",
+      "category_name": "Summer Cool Organization Tips"
+    },
+    {
+      "category_slug": "history-summer-cool-organization",
+      "category_name": "Summer Cool Organization History"
+    },
+    {
+      "category_slug": "trending-summer-cool-organization",
+      "category_name": "Trending Summer Cool Organization"
+    },
+    {
+      "category_slug": "tutorials-summer-cool-organization",
+      "category_name": "Summer Cool Organization Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "summer-cool-organization",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Summer Cool Organization Central",
+    "articles_per_row": 3
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-summer-cool-organization",
+      "title": "The Ultimate Guide to Beginner Summer Cool Organization",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656070",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Summer Cool Organization",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-summer-cool-organization-everything-you-need-to-know",
+      "title": "Beginner Summer Cool Organization: Everything You Need to Know",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656200",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: Beginner Summer Cool Organization: Everything You Need to Know",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-summer-cool-organization",
+      "title": "Understanding Beginner Summer Cool Organization",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656265",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Understanding Beginner Summer Cool Organization",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-summer-cool-organization-tips-and-best-practices",
+      "title": "Beginner Summer Cool Organization Tips and Best Practices",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656297",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: Beginner Summer Cool Organization Tips and Best Practices",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-summer-cool-organization",
+      "title": "The History of Beginner Summer Cool Organization",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656326",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: The History of Beginner Summer Cool Organization",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-summer-cool-organization-in-2026-current-trends",
+      "title": "Beginner Summer Cool Organization in 2026: Current Trends",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656356",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Beginner Summer Cool Organization in 2026: Current Trends",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-summer-cool-organization",
+      "title": "Future of Beginner Summer Cool Organization",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656389",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: Future of Beginner Summer Cool Organization",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-summer-cool-organization",
+      "title": "Common Mistakes in Beginner Summer Cool Organization",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656419",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Common Mistakes in Beginner Summer Cool Organization",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-summer-cool-organization-for-beginners",
+      "title": "Beginner Summer Cool Organization for Beginners",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656447",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: Beginner Summer Cool Organization for Beginners",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-summer-cool-organization-techniques",
+      "title": "Advanced Beginner Summer Cool Organization Techniques",
+      "category": "beginner-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656475",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Advanced Beginner Summer Cool Organization Techniques",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-summer-cool-organization",
+      "title": "The Ultimate Guide to Advanced Summer Cool Organization",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656790",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Summer Cool Organization",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-summer-cool-organization-everything-you-need-to-know",
+      "title": "Advanced Summer Cool Organization: Everything You Need to Know",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656818",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Advanced Summer Cool Organization: Everything You Need to Know",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-summer-cool-organization",
+      "title": "Understanding Advanced Summer Cool Organization",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656847",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Understanding Advanced Summer Cool Organization",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-summer-cool-organization-tips-and-best-practices",
+      "title": "Advanced Summer Cool Organization Tips and Best Practices",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656877",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Advanced Summer Cool Organization Tips and Best Practices",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-summer-cool-organization",
+      "title": "The History of Advanced Summer Cool Organization",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656907",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: The History of Advanced Summer Cool Organization",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-summer-cool-organization-in-2026-current-trends",
+      "title": "Advanced Summer Cool Organization in 2026: Current Trends",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656936",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Advanced Summer Cool Organization in 2026: Current Trends",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-summer-cool-organization",
+      "title": "Future of Advanced Summer Cool Organization",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656965",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Future of Advanced Summer Cool Organization",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-summer-cool-organization",
+      "title": "Common Mistakes in Advanced Summer Cool Organization",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.656993",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Common Mistakes in Advanced Summer Cool Organization",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-summer-cool-organization-for-beginners",
+      "title": "Advanced Summer Cool Organization for Beginners",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.657152",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Advanced Summer Cool Organization for Beginners",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-summer-cool-organization-techniques",
+      "title": "Advanced Advanced Summer Cool Organization Techniques",
+      "category": "advanced-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.658075",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Advanced Advanced Summer Cool Organization Techniques",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-summer-cool-organization-tips",
+      "title": "The Ultimate Guide to Summer Cool Organization Tips",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660309",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: The Ultimate Guide to Summer Cool Organization Tips",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 38,
+      "slug": "summer-cool-organization-tips-everything-you-need-to-know",
+      "title": "Summer Cool Organization Tips: Everything You Need to Know",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660343",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Summer Cool Organization Tips: Everything You Need to Know",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-summer-cool-organization-tips",
+      "title": "Understanding Summer Cool Organization Tips",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660398",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Understanding Summer Cool Organization Tips",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 40,
+      "slug": "summer-cool-organization-tips-tips-and-best-practices",
+      "title": "Summer Cool Organization Tips Tips and Best Practices",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660471",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Summer Cool Organization Tips Tips and Best Practices",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-summer-cool-organization-tips",
+      "title": "The History of Summer Cool Organization Tips",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660504",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: The History of Summer Cool Organization Tips",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 42,
+      "slug": "summer-cool-organization-tips-in-2026-current-trends",
+      "title": "Summer Cool Organization Tips in 2026: Current Trends",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660536",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Summer Cool Organization Tips in 2026: Current Trends",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-summer-cool-organization-tips",
+      "title": "Future of Summer Cool Organization Tips",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660590",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: Future of Summer Cool Organization Tips",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-summer-cool-organization-tips",
+      "title": "Common Mistakes in Summer Cool Organization Tips",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660621",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: Common Mistakes in Summer Cool Organization Tips",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 45,
+      "slug": "summer-cool-organization-tips-for-beginners",
+      "title": "Summer Cool Organization Tips for Beginners",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660668",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Summer Cool Organization Tips for Beginners",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-summer-cool-organization-tips-techniques",
+      "title": "Advanced Summer Cool Organization Tips Techniques",
+      "category": "tips-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.660722",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: Advanced Summer Cool Organization Tips Techniques",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-summer-cool-organization-history",
+      "title": "The Ultimate Guide to Summer Cool Organization History",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661240",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: The Ultimate Guide to Summer Cool Organization History",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 56,
+      "slug": "summer-cool-organization-history-everything-you-need-to-know",
+      "title": "Summer Cool Organization History: Everything You Need to Know",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661269",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: Summer Cool Organization History: Everything You Need to Know",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-summer-cool-organization-history",
+      "title": "Understanding Summer Cool Organization History",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661297",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Understanding Summer Cool Organization History",
+        "width": 1005,
+        "height": 556
+      }
+    },
+    {
+      "id": 58,
+      "slug": "summer-cool-organization-history-tips-and-best-practices",
+      "title": "Summer Cool Organization History Tips and Best Practices",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661327",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Summer Cool Organization History Tips and Best Practices",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-summer-cool-organization-history",
+      "title": "The History of Summer Cool Organization History",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661359",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: The History of Summer Cool Organization History",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 60,
+      "slug": "summer-cool-organization-history-in-2026-current-trends",
+      "title": "Summer Cool Organization History in 2026: Current Trends",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661388",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Summer Cool Organization History in 2026: Current Trends",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-summer-cool-organization-history",
+      "title": "Future of Summer Cool Organization History",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661416",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Future of Summer Cool Organization History",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-summer-cool-organization-history",
+      "title": "Common Mistakes in Summer Cool Organization History",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661445",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: Common Mistakes in Summer Cool Organization History",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 63,
+      "slug": "summer-cool-organization-history-for-beginners",
+      "title": "Summer Cool Organization History for Beginners",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661475",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Summer Cool Organization History for Beginners",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-summer-cool-organization-history-techniques",
+      "title": "Advanced Summer Cool Organization History Techniques",
+      "category": "history-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661505",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Advanced Summer Cool Organization History Techniques",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-summer-cool-organization",
+      "title": "The Ultimate Guide to Trending Summer Cool Organization",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661759",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: The Ultimate Guide to Trending Summer Cool Organization",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-summer-cool-organization-everything-you-need-to-know",
+      "title": "Trending Summer Cool Organization: Everything You Need to Know",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661788",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Trending Summer Cool Organization: Everything You Need to Know",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-summer-cool-organization",
+      "title": "Understanding Trending Summer Cool Organization",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661820",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Understanding Trending Summer Cool Organization",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-summer-cool-organization-tips-and-best-practices",
+      "title": "Trending Summer Cool Organization Tips and Best Practices",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661850",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: Trending Summer Cool Organization Tips and Best Practices",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-summer-cool-organization",
+      "title": "The History of Trending Summer Cool Organization",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661882",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: The History of Trending Summer Cool Organization",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-summer-cool-organization-in-2026-current-trends",
+      "title": "Trending Summer Cool Organization in 2026: Current Trends",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661910",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: Trending Summer Cool Organization in 2026: Current Trends",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-summer-cool-organization",
+      "title": "Future of Trending Summer Cool Organization",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661939",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Future of Trending Summer Cool Organization",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-summer-cool-organization",
+      "title": "Common Mistakes in Trending Summer Cool Organization",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661968",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Common Mistakes in Trending Summer Cool Organization",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-summer-cool-organization-for-beginners",
+      "title": "Trending Summer Cool Organization for Beginners",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.661996",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Trending Summer Cool Organization for Beginners",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-summer-cool-organization-techniques",
+      "title": "Advanced Trending Summer Cool Organization Techniques",
+      "category": "trending-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662024",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Advanced Trending Summer Cool Organization Techniques",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-summer-cool-organization-tutorials",
+      "title": "The Ultimate Guide to Summer Cool Organization Tutorials",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662340",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: The Ultimate Guide to Summer Cool Organization Tutorials",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 92,
+      "slug": "summer-cool-organization-tutorials-everything-you-need-to-know",
+      "title": "Summer Cool Organization Tutorials: Everything You Need to Know",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662368",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: Summer Cool Organization Tutorials: Everything You Need to Know",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-summer-cool-organization-tutorials",
+      "title": "Understanding Summer Cool Organization Tutorials",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662397",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Understanding Summer Cool Organization Tutorials",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 94,
+      "slug": "summer-cool-organization-tutorials-tips-and-best-practices",
+      "title": "Summer Cool Organization Tutorials Tips and Best Practices",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662426",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Summer Cool Organization Tutorials Tips and Best Practices",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-summer-cool-organization-tutorials",
+      "title": "The History of Summer Cool Organization Tutorials",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662456",
+      "image": {
+        "id": "61924693934662dcfa0a9275c816794c678c9267eb251cb8e9e7c53212701938",
+        "url": "https://picsum.photos/936/415?random=339",
+        "alt": "Featured image for: The History of Summer Cool Organization Tutorials",
+        "width": 936,
+        "height": 415
+      }
+    },
+    {
+      "id": 96,
+      "slug": "summer-cool-organization-tutorials-in-2026-current-trends",
+      "title": "Summer Cool Organization Tutorials in 2026: Current Trends",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662484",
+      "image": {
+        "id": "2367109e5f414845c399bda4a021f55faafa97cd7ab4a3914cc9f323d2cfd2dd",
+        "url": "https://picsum.photos/1099/479?random=185",
+        "alt": "Featured image for: Summer Cool Organization Tutorials in 2026: Current Trends",
+        "width": 1099,
+        "height": 479
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-summer-cool-organization-tutorials",
+      "title": "Future of Summer Cool Organization Tutorials",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662512",
+      "image": {
+        "id": "734b1c1b0b8405fb7391c504efb1cb578b849a0b3a7fa8f5ad23787e3ac8c8c4",
+        "url": "https://picsum.photos/981/463?random=294",
+        "alt": "Featured image for: Future of Summer Cool Organization Tutorials",
+        "width": 981,
+        "height": 463
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-summer-cool-organization-tutorials",
+      "title": "Common Mistakes in Summer Cool Organization Tutorials",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662542",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Common Mistakes in Summer Cool Organization Tutorials",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 99,
+      "slug": "summer-cool-organization-tutorials-for-beginners",
+      "title": "Summer Cool Organization Tutorials for Beginners",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662571",
+      "image": {
+        "id": "79c18bb4a2151ec0f14a2fd463dc37c7958815a0f911e9fdf3780cf4e5798e95",
+        "url": "https://picsum.photos/828/454?random=509",
+        "alt": "Featured image for: Summer Cool Organization Tutorials for Beginners",
+        "width": 828,
+        "height": 454
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-summer-cool-organization-tutorials-techniques",
+      "title": "Advanced Summer Cool Organization Tutorials Techniques",
+      "category": "tutorials-summer-cool-organization",
+      "created_at": "2026-06-04T11:35:17.662599",
+      "image": {
+        "id": "8481b0052d8764b19607da11fbd4bbbf84a41cc5aa1e880c7f2c13134efe9f22",
+        "url": "https://picsum.photos/1005/556?random=639",
+        "alt": "Featured image for: Advanced Summer Cool Organization Tutorials Techniques",
+        "width": 1005,
+        "height": 556
+      }
+    }
+  ],
+  "categories": [
+    "beginner-summer-cool-organization",
+    "advanced-summer-cool-organization",
+    "tips-summer-cool-organization",
+    "history-summer-cool-organization",
+    "trending-summer-cool-organization",
+    "tutorials-summer-cool-organization"
+  ]
+}
